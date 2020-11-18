@@ -1,1 +1,2 @@
-# RehabilitationRobot
+# Rehabilitation Robot
+Exoskeleton
